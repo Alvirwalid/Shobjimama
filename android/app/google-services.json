@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "475345764780",
+    "project_id": "shobjimama",
+    "storage_bucket": "shobjimama.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475345764780:android:6a91206bd53963874efa09",
+        "android_client_info": {
+          "package_name": "com.example.shobjimama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475345764780-vot57ep1ooncccasufvlirda9nhvs9bi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shobjimama",
+            "certificate_hash": "a31c909b4c999a8395394e4c0a75a865865e53ef"
+          }
+        },
+        {
+          "client_id": "475345764780-6uce0r82m42eb6vvcnlvo6r00mhb4sqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmL1UBh74nWLUfRmdtB0nzd4DOnnL39g4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475345764780-6uce0r82m42eb6vvcnlvo6r00mhb4sqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
